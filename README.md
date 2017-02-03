@@ -1,19 +1,14 @@
 # AgentTest
 
-**TODO: Add description**
+This is an example repo on how to test named agents in Elixir.
 
-## Installation
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/gfI4LVS7pqM" frameborder="0"
+allowfullscreen></iframe>
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `agent_test` to your list of dependencies in `mix.exs`:
+# Running
 
-```elixir
-def deps do
-  [{:agent_test, "~> 0.1.0"}]
-end
+```bash
+  mix deps.get
+  mix test
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/agent_test](https://hexdocs.pm/agent_test).
-
