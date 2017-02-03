@@ -2,9 +2,7 @@
 
 This is an example repo on how to test named agents in Elixir.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/gfI4LVS7pqM" frameborder="0"
-allowfullscreen></iframe>
+[![Screencast](https://img.youtube.com/vi/gfI4LVS7pqM/0.jpg)](https://www.youtube.com/watch?v=gfI4LVS7pqM)
 
 # Running
 
